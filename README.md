@@ -1,1 +1,1 @@
-This program will differentiate your expression, but that's not the most exciting thing. As a result of calcuation, you will get a humorous scientific dissertation about differentiating and simplifying your expression.
+This program will differentiate your expression, but that's not the most exciting thing. As a result of calcuation, you will get a humorous scientific dissertation about differentiating and simplifying your expression!
